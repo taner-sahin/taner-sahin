@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Merhaba, ben Taner Şahin
 
-<!--
-**taner-sahin/taner-sahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Backend Developer (Django & Python)
 
-Here are some ideas to get you started:
+Django ile backend odaklı projeler geliştiriyorum.  
+Özellikle e-ticaret sistemlerini adım adım kuruyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Şu an ne yapıyorum?
+
+- Gerçek e-ticaret projeleri geliştiriyorum  
+- Backend mimarisini öğreniyorum  
+- Python ve veritabanı becerilerimi geliştiriyorum  
+
+---
+
+## 🛠 Kullandığım Teknolojiler
+
+- Python  
+- Django  
+- SQLite / PostgreSQL  
+- HTML / CSS  
+
+---
+
+## 📦 Projeler
+
+- StepCart → Django ile DB tabanlı sepet sistemi (cart, quantity, stock kontrol)
+- ByteShop → Backend odaklı e-ticaret sistemi (ürün, kategori, sepet, sipariş)
+- GriWear → Minimal e-ticaret projesi (listeleme, detay, sepet)
+
+---
+
+## 🎯 Hedefim
+
+Profesyonel bir backend developer olmak ve bir şirkette çalışmak.
