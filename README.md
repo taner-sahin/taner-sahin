@@ -1,37 +1,45 @@
-# 👋 Merhaba, ben Taner Şahin
 
-## 🚀 Backend Developer (Django & Python)
+# 👋 Hi, I'm Taner Sahin
 
-Django ile backend odaklı projeler geliştiriyorum.  
-Özellikle e-ticaret sistemlerini adım adım kuruyorum.
+🚀 Backend Developer (Django & Python)
 
----
-
-## 🧠 Şu an ne yapıyorum?
-
-- Gerçek e-ticaret projeleri geliştiriyorum  
-- Backend mimarisini öğreniyorum  
-- Python ve veritabanı becerilerimi geliştiriyorum  
+I build backend-focused web applications using Django.  
+Currently focused on developing real-world e-commerce systems step by step.
 
 ---
 
-## 🛠 Kullandığım Teknolojiler
+## 🧠 What am I doing now?
+
+- Building real e-commerce projects  
+- Learning backend architecture deeply  
+- Improving Django & Python skills  
+
+---
+
+## 🛠 Tech Stack
 
 - Python  
 - Django  
-- SQLite / PostgreSQL  
 - HTML / CSS  
+- SQLite / PostgreSQL (learning)  
 
 ---
 
-## 📦 Projeler
+## 🎯 Goal
 
-- StepCart → Django ile DB tabanlı sepet sistemi (cart, quantity, stock kontrol)
-- ByteShop → Backend odaklı e-ticaret sistemi (ürün, kategori, sepet, sipariş)
-- GriWear → Minimal e-ticaret projesi (listeleme, detay, sepet)
+To become a professional backend developer and work in a real company.
 
 ---
 
-## 🎯 Hedefim
+## 📂 Projects
 
-Profesyonel bir backend developer olmak ve bir şirkette çalışmak.
+- ByteShop → Django E-Commerce System  
+- ByTaks → Task Management System  
+- StepCart → Advanced E-Commerce (in progress)  
+
+---
+
+## 🇹🇷 Kısa Not
+
+Django ile backend odaklı projeler geliştiriyorum.  
+Özellikle e-ticaret sistemlerini anlayarak kurmaya odaklıyım.
