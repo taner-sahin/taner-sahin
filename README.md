@@ -33,9 +33,19 @@ To become a professional backend developer and work in a real company.
 
 ## 📂 Projects
 
-- ByteShop → Django E-Commerce System  
-- ByTaks → Task Management System  
-- StepCart → Advanced E-Commerce (in progress)  
+- **OrderCore → Advanced E-Commerce Backend**
+  - DB-based cart system
+  - Order & OrderItem (snapshot logic)
+  - Checkout flow and order history
+
+- **SnapCart → Core E-Commerce System**
+  - Product listing
+  - Authentication system
+  - Cart flow
+
+- **BookStore → E-Commerce Practice Project**
+  - Category filtering
+  - Cart and order flow
 
 ---
 
