@@ -1,55 +1,89 @@
+# 👋 Hi, I'm Taner Şahin
 
-# 👋 Hi, I'm Taner Sahin
+### Django Backend Developer
 
-🚀 Backend Developer (Django & Python)
+I build secure, tested and production-ready backend applications using Python and Django.
 
-I build backend-focused web applications using Django.  
-Currently focused on developing real-world e-commerce systems step by step.
+Currently focused on backend architecture, automated testing, user isolation, PostgreSQL, REST APIs and deployment.
+
+🌐 **Portfolio:** https://tanersahindev.com
 
 ---
 
-## 🧠 What am I doing now?
+## 🚀 Featured Projects
 
-- Building real e-commerce projects  
-- Learning backend architecture deeply  
-- Improving Django & Python skills  
+### 🎯 CareerTrack
+
+A production-ready Django application for managing job applications, companies, interviews, reminders and reports.
+
+**Highlights**
+- Django & PostgreSQL
+- Secure user isolation
+- Global search
+- Reports
+- CSV / PDF export
+- Automated tests
+- Gunicorn & Nginx
+- HTTPS deployment
+
+**Live:** https://tanersahindev.com
+
+---
+
+### 👥 ClientTrack
+
+A backend-focused Django Mini CRM currently in active development.
+
+**Completed so far**
+- Custom authentication
+- Client CRUD
+- Ownership system
+- Secure user isolation
+- Authorization protection
+- Automated testing
+- Django ORM
+
+**Current test status:** 16/16 passing
+
+---
+
+### 🌐 Developer Portfolio
+
+My professional Django Backend Developer portfolio.
+
+It includes my projects, technical experience and live applications.
+
+**Website:** https://tanersahindev.com
 
 ---
 
 ## 🛠 Tech Stack
 
-- Python  
-- Django  
-- HTML / CSS  
-- SQLite / PostgreSQL (learning)  
+- Python
+- Django
+- PostgreSQL
+- SQLite
+- HTML / CSS
+- Bootstrap
+- Git & GitHub
+- Linux / Ubuntu
+- Gunicorn
+- Nginx
 
 ---
 
-## 🎯 Goal
+## 📚 Currently Improving
 
-To become a professional backend developer and work in a real company.
-
----
-
-## 📂 Projects
-
-- **OrderCore → Advanced E-Commerce Backend**
-  - DB-based cart system
-  - Order & OrderItem (snapshot logic)
-  - Checkout flow and order history
-
-- **SnapCart → Core E-Commerce System**
-  - Product listing
-  - Authentication system
-  - Cart flow
-
-- **BookStore → E-Commerce Practice Project**
-  - Category filtering
-  - Cart and order flow
+- Django backend architecture
+- Automated testing
+- Security and authorization
+- Django ORM
+- PostgreSQL
+- REST APIs
+- Deployment
 
 ---
 
-## 🇹🇷 Kısa Not
+## 🎯 Current Goal
 
-Django ile backend odaklı projeler geliştiriyorum.  
-Özellikle e-ticaret sistemlerini anlayarak kurmaya odaklıyım.
+Building production-quality Django backend projects and preparing for a professional backend developer role.
